@@ -1,0 +1,18 @@
+<svg width="50" height="41" xmlns="http://www.w3.org/2000/svg">
+
+    <path name="fond"
+        d="M 25 0 L 0 15 L 0 41 L 50 41 L 50 15 L 25 0"
+        fill="#4444ff" />
+    
+    <path name="lettre"
+        d="M 3 15 L 47 15 L 47 29 L 3 29 L 3 15"
+        fill="#eeeeee" />
+
+    <path name="pli droit"
+        d="M 50 15 L 0 41 L 50 41 L 50 15"
+        fill="#aaaaff" />
+
+    <path name="pli gauche"
+        d="M 0 15 L 50 41 L 0 41 L 0 15"
+        fill="#8888ff" />
+</svg>

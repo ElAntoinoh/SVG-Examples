@@ -1,0 +1,15 @@
+<svg width="43" height="44" xmlns="http://www.w3.org/2000/svg">
+
+    <path
+        d="M 32 1 L 11 18 L 15 21 L 38 6 L 32 1"
+        fill="#4444ff" />
+
+    <path
+        d="M 32 27 L 11 10 L 15 7 L 38 22 L 32 27"
+        fill="#8888ff" />
+    
+    <path
+        d="M 32 1 L 32 27 L 38 22 L 38 6 L 32 1"
+        fill="#aaaaff" />
+
+</svg>

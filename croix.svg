@@ -1,0 +1,6 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+
+    <path name="rond"
+        d="M 25 0 A 1 1 0 0 0 25 50 A 1 1 0 0 0 25 0 M 14 16 L 16 14 L 25 23 L 34 14 L 36 16 L 27 25 L 36 34 L 34 36 L 25 27 L 16 36 L 14 34 L 23 25 L 14 16"
+        fill="#d75a4a" />
+</svg>
